@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /
+RedirectMatch ^/index(.+).php /$1.php
